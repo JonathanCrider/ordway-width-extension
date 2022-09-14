@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Ordway Flex Widener",
+  "name": "Ordway Customer Table Widener",
   "version": "1.0",
   "description": "Widens customer list table for larger screens",
   "content_scripts": [{
