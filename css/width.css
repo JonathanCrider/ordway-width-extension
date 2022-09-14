@@ -2,6 +2,8 @@
   --width: 1800px;
 }
 
-#CustomersTable-react-component-0 {
+/* i.e., div id would be: CustomersTable-react-component-0   */
+
+div[id*="-react-component-0"] {
   width: var(--width);
 }
