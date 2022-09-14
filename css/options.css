@@ -1,0 +1,51 @@
+:root {
+  --options-font-size: 14pt
+}
+
+body {
+  height: 100%
+}
+
+#container {
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#options {
+  background-image: linear-gradient(to bottom right, rgb(239, 159, 0), rgba(255, 174, 0, 0.726));
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  align-items: center;
+}
+
+#set-width {
+  height: 2rem;
+  font-size: var(--options-font-size);
+  width: calc(100% - .9rem);
+  margin-top: 1rem;
+  border-radius: .4rem;
+  padding-left: .5rem;
+}
+
+label {
+  font-size: var(--options-font-size);
+  font-weight: bold;
+}
+
+#status {
+  font-size: var(--options-font-size);
+  font-weight: bold;
+  margin-top: .5rem;
+}
+
+button {
+  width: 100%;
+  border-radius: .4rem;
+  margin-top: .5rem;
+  font-size: var(--options-font-size);
+}

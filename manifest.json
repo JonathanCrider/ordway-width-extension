@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Ordway Flex Widener",
+  "version": "1.0",
+  "description": "Widens customer list table for larger screens",
+  "content_scripts": [{
+    "css": ["css/width.css"],
+    "js": ["js/width.js"],
+    "matches": ["https://app.ordwaylabs.com/*"]
+  }],
+  "permissions": [
+    "storage"
+  ],
+  "options_page": "html/options.html"
+}

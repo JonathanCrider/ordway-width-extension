@@ -1,0 +1,7 @@
+:root {
+  --width: 1800px;
+}
+
+#CustomersTable-react-component-0 {
+  width: var(--width);
+}
