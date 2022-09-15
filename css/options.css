@@ -15,7 +15,7 @@ body {
 }
 
 #options {
-  background-image: linear-gradient(to bottom right, rgb(239, 159, 0), rgba(255, 174, 0, 0.726));
+  background-image: linear-gradient(to bottom right, rgba(255, 127, 0, 1), rgba(230, 114, 0, 1));
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   margin: 1rem;
   padding: 1rem;
