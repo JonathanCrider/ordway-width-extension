@@ -1,4 +1,4 @@
-# Ordway Table Width Extension [Archived]
+# Ordway Table Width Extension [Deprecated]
 
 Chrome extension that enhanced Ordway's table UI by providing custom width controls and persistent settings. Built to optimize data visibility in Ordway's billing platform (pre-2023 version).
 
@@ -20,4 +20,4 @@ The original Ordway platform had fixed-width tables that didn't effectively util
 
 ## Status
 
-This extension is now archived as Ordway's platform upgrade in 2023 implemented proper responsive tables, eliminating the need for this solution.
+This extension is now deprecated as Ordway's platform upgrade in 2023 implemented proper responsive tables, eliminating the need for this solution.
